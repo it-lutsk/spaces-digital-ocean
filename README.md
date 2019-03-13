@@ -4,4 +4,6 @@ Spaces provides a RESTful XML API for programatically managing the data you stor
 
 # Installation:
 
+```bash
 composer require westside/spaces-digital-ocean
+```
